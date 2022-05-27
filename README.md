@@ -1,4 +1,4 @@
-# ECE Ensemble of Counterfactual Explainers
+# ECE: Ensemble of Counterfactual Explainers
 **Riccardo Guidotti, Salvatore Ruggieri**    
 Department of Computer Science, University of Pisa, Italy  
 riccardo.guidotti@unipi.it, salvatore.ruggieri@unipi.it
